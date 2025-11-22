@@ -1,0 +1,22 @@
+[
+    {
+        "id": "app-1",
+        "name": "calculator",
+        "icon": "https://via.placeholder.com/56/06b6d4/ffffff?text=A1",
+        "url": "apps/app-1/index.html",
+        "creator": {
+            "name": "lingaraj_sa",
+            "instagram": "https://www.instagram.com/_lingaraj_sa_"
+        }
+    },
+    {
+        "id": "app-2", 
+        "name": "notes",
+        "icon": "https://via.placeholder.com/56/10b981/ffffff?text=A2",
+        "url": "apps/app-2/index.html",
+        "creator": {
+            "name": "lingaraj_sa", 
+            "instagram": "https://www.instagram.com/_lingaraj_sa_"
+        }
+    }
+]
